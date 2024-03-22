@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1711131863 source:c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\src\fecha.cpp
+	"Fecha.h"
+	<string.h>
+
+1711131863 c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\include\fecha.h
+	<iostream>
+	<string.h>
+
+1711131863 source:c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\src\cliente.cpp
+	"Cliente.h"
+
+1711131863 c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\include\cliente.h
+	<iostream>
+	<stdio.h>
+	<string>
+
+1711131863 source:c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\src\pago.cpp
+	"Pago.h"
+	"Fecha.h"
+	<string.h>
+
+1711131863 c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\include\pago.h
+	<iostream>
+	<string.h>
+	"Fecha.h"
+
+1711131863 source:c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Fecha.h"
+	"Cliente.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1711131863 c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\include\prestamo.h
+	<iostream>
+	<string.h>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+
+1711131863 source:c:\users\mineducyt\onedrive - universidad de sonsonate\programacion 2-2024\evaluacion-lab-progra2\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	<string.h>
+
